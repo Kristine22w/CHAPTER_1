@@ -1,5 +1,5 @@
 # CHAPTER_1
-Introducing Flutter and Getting Started
+**Introducing Flutter and Getting Started**
 
 In this chapter, I've learned the foundational concepts and initial steps that necessary to start developing apps using Flutter. Flutter is an open-source UI toolkit by Google for building applications for mobile, web, and desktop from a single codebase. Also, I've learned that the Flutter uses the Skia 2D rendering engine that works with different types of hardware and software.
 
@@ -9,10 +9,14 @@ The StatelessWidgets and StatefulWidgets are the two main types of widgets in Fl
 
 Lastly, I've learned how to install Flutter Extension and Dart Extension in VS Code.
 
-Installation of Flutter in VS Code
+
+
+**Installation of Flutter in VS Code**
 ![flutter](https://github.com/user-attachments/assets/e93c8a5c-de8d-40b8-b1d5-43897305b181)
 
-Installation of Dart in VS COde
+
+
+**Installation of Dart in VS COde**
 ![dart](https://github.com/user-attachments/assets/84a45c94-c129-4f2f-801c-10174e6e41c4)
 
 
