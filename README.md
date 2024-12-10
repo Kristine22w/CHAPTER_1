@@ -7,8 +7,13 @@ I've learned that Widgets are the building blocks of a Flutter application. In F
 
 The StatelessWidgets and StatefulWidgets are the two main types of widgets in Flutter. They are used to build the user interface, but they serve different purposes depending on whether the widgets appearance or behavior needs to change during its lifecycle. So lets differentiate why the two of them have a different purposes, first the StatelessWidget is a widget that does not require mutable state. It is used for displaying only the static content that does not change after it is built, while the StatefulWidgets is a widget that can rebuild itself dynamically based on changes in its internal state. 
 
-At the end of this chapter, I've learned how to install Flutter in windows. Thanks to the guide in the textbook and for extra knowledge in Youtube for this installation, I  was able to installed it successfully on my own.
+Lastly, I've learned how to install Flutter Extension and Dart Extension in VS Code.
+
+Installation of Flutter in VS Code
+![flutter](https://github.com/user-attachments/assets/e93c8a5c-de8d-40b8-b1d5-43897305b181)
+
+Installation of Dart in VS COde
+![dart](https://github.com/user-attachments/assets/84a45c94-c129-4f2f-801c-10174e6e41c4)
 
 
-![Screenshot (204)](https://github.com/user-attachments/assets/1b8e1aa5-ae2e-4648-9ad1-36d8a9f1ced9)
  
